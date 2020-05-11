@@ -10,3 +10,6 @@ dependencies:
 - name: golang-http
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.2
+- name: golang-http-2
+  repository: http://bucketrepo/bucketrepo/charts/
+  version: 0.0.1
